@@ -7,7 +7,7 @@ environment:
   sdk: '>=1.4.0 <2.0.0'
 dependencies:
   redstone: '>=0.5.4 < 0.6.0'
-  redstone_mapper: '>=0.1.0 < 0.2.0'
+  redstone_mapper: '>=0.1.0 < 0.3.0'
   postgresql:
     git:
       git@github.com:dart-targets/dart_postgresql.git
